@@ -1,8 +1,9 @@
 /* Mapa General */
 
 #mapaGeneral {
-    display: grid;
-    grid-template-columns: auto auto;
+    /*display: grid;
+    grid-template-columns: auto auto;*/
+    display: flex;
 }
 
 /*#map {
@@ -13,7 +14,7 @@
 #map {
     border: solid 0.2em #D0D4D8;
     height: 70em;
-    width: 49em;
+    width: 50em;
 }
 
 /*#info {
@@ -25,8 +26,8 @@
 #info {
     background-color: #F9F9F9;
     border: solid #D0D4D8;
-    width: 48em;
-    max-height: 59.9em;
+    width: 50em;
+    max-height: 70em;
 }
 
 #infoElements {
