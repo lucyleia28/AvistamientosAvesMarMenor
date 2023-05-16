@@ -23,16 +23,6 @@
 // @grant        GM_addElement
 // ==/UserScript==
 
-// Crear clase Mapa
-class Mapa {
-    constructor(map, tileLayer, escala){
-        this.map = map;
-        this.tileLayer = tileLayer;
-        this.scale = escala;
-    }
-};
-// ----------------------------------------------------------------------------------------------------------------------------
-
 // CSS
 
 // Cargar mi propio CSS
@@ -123,7 +113,7 @@ async function crearMapa(tipo, mapContainer){
     if (tipo == "general") {
         zoom = 11.5;
     }
-    let map = L.map('map').setView([37.7325, -0.7905], zoom);
+    let map = L.map('map').setView([37.7325, -0.7790], zoom);
 
     // Capa con el mapa base de openstreetmap que se le anyade a map
     let base = addLayerBase(map);
@@ -133,9 +123,6 @@ async function crearMapa(tipo, mapContainer){
 
     // Agregar escala
     let escala = addLayerEscala(map);
-
-    // Se crea el objeto Mapa
-    let mapa = new Mapa(map, base, escala);
 
     // MarkerCluster
     var markers = L.markerClusterGroup({
