@@ -95,7 +95,7 @@ Distribuido bajo la licencia `GNU GPLv3`. Consulte `LICENSE` para más informaci
 ## Contacto
 
 🙋‍♂️Paula González Martínez \
-📱[@paulagonzalezmartinez](www.linkedin.com\in\paulagonzalezmartinez) \
+📱[LinkedIn](https://www.linkedin.com/in/paulagonzalezmartinez) \
 ✉️ paula.gonzalezm@ua.es
 
 <p align="right">(<a href="#top">Volver al inicio</a>)</p>
