@@ -31,8 +31,6 @@ Plugin de web aumentada para Wikipedia que introduce una nueva sección con los 
 
 Pretende concienciar a los usuarios sobre el impacto y la repercusión que tiene el estado del agua del mar Menor en el aumento o descenso del número de avistamientos de diferentes especies de aves en el entorno.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 ## Cómo empezar
 
@@ -61,7 +59,7 @@ Este es un ejemplo de cómo instalar y ejecutar el plugin para su correcta visua
 3. Copie y pegue en el nuevo script el código del archivo descargado.
 4. Guarde los cambios.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
@@ -84,14 +82,14 @@ https://es.wikipedia.org/wiki/Ichthyaetus_audouinii
 https://es.wikipedia.org/wiki/Larus_genei
 ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio</a>)</p>
 
 <!-- LICENSE -->
 ## Licencia
 
 Distribuido bajo la licencia `GNU GPLv3`. Consulte `LICENSE` para más información.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio</a>)</p>
 
 <!-- CONTACT -->
 ## Contacto
@@ -100,4 +98,4 @@ Distribuido bajo la licencia `GNU GPLv3`. Consulte `LICENSE` para más informaci
 📱[@paulagonzalezmartinez](www.linkedin.com/in/paulagonzalezmartinez) \
 ✉️ paula.gonzalezm@ua.es
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio</a>)</p>
