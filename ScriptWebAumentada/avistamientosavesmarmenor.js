@@ -13,7 +13,6 @@
 // @resource     markercluster_css https://raw.githubusercontent.com/lucyleia28/AvistamientosAvesMarMenor/main/Leaflet.markercluster-1.4.1/dist/MarkerCluster.css
 // @resource     markerclusterdefault_css https://raw.githubusercontent.com/lucyleia28/AvistamientosAvesMarMenor/main/Leaflet.markercluster-1.4.1/dist/MarkerCluster.Defaults.css
 // @require      https://unpkg.com/leaflet@1.7.1/dist/leaflet.js
-
 // @require      https://raw.githubusercontent.com/lucyleia28/AvistamientosAvesMarMenor/main/echarts.min.js
 // @require      https://raw.githubusercontent.com/lucyleia28/AvistamientosAvesMarMenor/main/Leaflet.Legend-master/src/leaflet.legend.js
 // @require      https://raw.githubusercontent.com/lucyleia28/AvistamientosAvesMarMenor/main/heatmap.js-2.0.5/build/heatmap.js
